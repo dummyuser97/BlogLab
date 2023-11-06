@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "BlogLab-UI": {
+    "BlogLab-UI": { 
       "projectType": "application",
       "schematics": {
         "@schematics/angular:class": {
